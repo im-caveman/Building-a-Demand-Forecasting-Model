@@ -16,6 +16,9 @@
 | MAE (daily level) | 15 % lower than naive weekly moving average |
 | Week-39 forecast | **quantity_sold_w39** units (2 % vs actuals) |
 
+## Check the official documented project notebook here:
+[Notebook](https://www.kaggle.com/code/itoshi/notebook)
+
 ## 🚀 Stack
 PySpark 3.4 | Spark-ML | Random-Forest | pandas | Jupyter
 
