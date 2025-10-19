@@ -39,4 +39,5 @@ jupyter lab Demand_Forecast_Online_Retail.ipynb
 
 ## 🤝 Hire me
 Looking for **entry-level data-science / ML-engineering** roles where I can bring the same iterative, business-first mindset to larger data sets and cloud pipelines.  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue)](https://linkedin.com/in/<you>) [![Email](https://img.shields.io/badge/Email-contact-green)](mailto:<you>@<domain>)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue)](https://linkedin.com/in/<you>)  [![Email](https://img.shields.io/badge/Email-contact-green)](mailto:<you>@<domain>)
